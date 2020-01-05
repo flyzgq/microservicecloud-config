@@ -19,7 +19,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://mysqladdr:3306/clouddb01
     username: root
-    password: mysql
+    password: 123456
     #   数据源其他配置
     initialSize: 5
     minIdle: 5
@@ -68,7 +68,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://mysqladdr:3306/clouddb02
     username: root
-    password: mysql
+    password: 123456
     #   数据源其他配置
     initialSize: 5
     minIdle: 5
